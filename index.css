@@ -1,0 +1,108 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+header{
+    padding-bottom: 150px;
+}
+.logo-picture img{
+    width: 200px;
+}
+.custom-text-color{
+    color:rgb(83, 85, 107);
+}
+
+.navbro-nav-item{
+    color: darkcyan;
+    font-size: 20px;
+    margin-left: auto;
+}
+
+.super-btn{
+    background-image: linear-gradient(rgb(51, 37, 73),rgb(31, 33, 63));
+}
+
+
+.surpass img{
+    width: 100px;
+}
+
+
+@media only screen and (max-width:768px){
+    .centralize {
+        text-align: center;
+    }
+}
+.super-card{
+    border-radius: 10px;
+    box-shadow: 5px 6px 30px gray;
+}
+.tanjim-bag-title{
+    color:darkcyan;  
+}
+.tanjim-footer{
+    border: 0;
+    background-color: white;   
+}
+.tanjim-footer .super-btn{
+    margin-left: auto;
+}
+@media only screen and (max-width:768px) {
+    h3, p{
+        text-align: center;
+    }
+    img{
+        display: block;
+        margin: 0 auto;
+    }
+}
+
+.contact-form{
+    width: 80%;
+    background-color:rgb(235, 228, 228);
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    padding: 40px 40px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    text-align: center;
+}
+.form-text{
+    display: block;
+    text-align: left;
+    border: 1px solid gray;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+.form-text label{
+    display: block;
+    text-align: left;
+    font-size: 15px;
+    color:darkcyan ;
+
+}
+.form-text input, .form-text textarea{
+    width: 70%;
+    border: none;
+    background: none;
+}
+.display-3{
+    color: rgb(63, 59, 82);
+}
+.custom-text-color3{
+    color: rgb(124, 201, 124);
+    font-size: 55px;
+}
+.lastclass{
+   background-color: rgb(222, 233, 236);
+  
+}
+.last-part{
+    margin-bottom: 20px;
+}
+h6{
+    margin-top: 20px;
+}
+   
+
+    
